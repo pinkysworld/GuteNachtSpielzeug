@@ -142,7 +142,7 @@ def home_de():
 </div>
 <div class="hero-art">
 {img("hero", "Kinderzimmer im Spiel: Bett, Hundehütte und Spielsachen in Filz- und Holzoptik, Bo der Bär und die kleine Eisenbahn auf dem Teppich", lazy=False)}
-<img class="shelf shot" src="{BASE}assets/img/shelf-sm.webp" width="592" height="324" alt="Das Bücherregal mit den Zimmer-Büchern" loading="lazy">
+<img class="shelf shot" src="{BASE}assets/img/shelf-sm.webp" width="592" height="324" alt="Das Bücherregal mit den Zimmer-Büchern">
 </div>
 </div></section>
 
@@ -207,7 +207,7 @@ def home_en():
 </div>
 <div class="hero-art">
 {img("hero", "The kids' room in the game: bed, dog house and felt-and-wood toys, Bo the bear and the little train on the rug", lazy=False)}
-<img class="shelf shot" src="{BASE}assets/img/shelf-sm.webp" width="592" height="324" alt="The bookshelf with the room books" loading="lazy">
+<img class="shelf shot" src="{BASE}assets/img/shelf-sm.webp" width="592" height="324" alt="The bookshelf with the room books">
 </div>
 </div></section>
 
