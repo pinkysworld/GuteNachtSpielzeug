@@ -94,7 +94,7 @@ details p,details ul{color:var(--muted);margin:.6em 0 0}
 /* footer */
 footer{background:var(--paper2);border-top:1px solid var(--line);padding:36px 0;font-size:.95rem}
 footer .wrap{display:flex;flex-wrap:wrap;gap:20px 40px;align-items:center;justify-content:space-between}
-footer .wm{width:200px;height:auto}
+footer .wm{width:320px;max-width:85vw;height:auto;margin:6px 0}
 footer nav{display:flex;flex-wrap:wrap;gap:8px 20px}
 footer nav a{color:var(--ink)}
 footer small{color:var(--muted);width:100%}
