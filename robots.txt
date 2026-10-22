@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://minh.systems/GuteNachtSpielzeug/sitemap.xml
