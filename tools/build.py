@@ -84,8 +84,8 @@ def layout(lang, path, title, desc, body, home=False):
 <meta property="og:locale" content="{'de_DE' if lang == 'de' else 'en_US'}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{SITE}assets/img/og.jpg">
-<link rel="stylesheet" href="{BASE}assets/site.css?v=2">
-<script src="{BASE}assets/site.js?v=2" defer></script>
+<link rel="stylesheet" href="{BASE}assets/site.css?v=3">
+<script src="{BASE}assets/site.js?v=3" defer></script>
 </head>
 <body>
 <a class="skip" href="#main">{t["skip"]}</a>
