@@ -112,3 +112,5 @@ footer small{color:var(--muted);width:100%}
   .hero-art .shelf{display:none}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+.gplay{display:inline-flex;align-items:center;line-height:0}.gplay img{display:block;height:56px;width:auto}
